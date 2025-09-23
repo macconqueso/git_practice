@@ -1,0 +1,1 @@
+Git is actually quite simple with a bit of practice. But, I should remember to pull from GitHub, too
